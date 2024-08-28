@@ -1,4 +1,6 @@
-title: Data Science Project
+title: Data Science Portfolio
 description: This is an example I am working on
 theme: jekyll-theme-minimal
 
+**bold text**: Spotify Time analysis Project
+description: The challenge I’ve chosen where the application of data analytics can contribute towards addressing is looking to understand the properties of music over time and to predict what type of music will be popular in the future. The statistical technique I have chosen to use to approach this challenge is Time series analysis as enables me to look at outliers, cyclical patterns and use forecasting software on the data, which overall should allow me to suggest possibles explanations for the results and offer insights as to what music will be popular in the near future.
